@@ -1,0 +1,30 @@
+1. Cricket is a bat and ball game played between two teams of eleven players each on a cricket field.
+2. Each phase of play is called an innings during which one team bats, attempting to score as many runs as possible.
+3. The teams have one or two innings apiece and, when the first innings ends, the teams swap roles for the next innings
+4. Before a match begins, the two team captains meet on the pitch for the toss of a coin to determine which team will bat first.
+5. Two batsmen and eleven fielders then enter the field and play begins when a member of the fielding team, known as the bowler, delivers the ball.
+6. The most common dismissal in cricket match are bowled, when the bowler hits the stumps directly with the ball and dislodges the bails. Batsman gets out.
+7. Runs are scored by two main methods: either by hitting the ball hard enough for it to cross the boundary, or by the two batsmen swapping ends.
+8. The main objective of each team is to score more runs than their opponents.
+9. If the team batting last is all out having scored fewer runs than their opponents, they are said to have "lost by n runs".
+10. The role of striker batsman is to prevent the ball from hitting the stumps by using his bat and, simultaneously, to strike it well enough to score runs
+11. Artificial intelligence is intelligence exhibited by machines, rather than humans or other animals. 
+12. the field of AI research defines itself as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of success at some goal
+13. The overall research goal of artificial intelligence is to create technology that allows computers and machines to function in an intelligent manner.
+14. Natural language processing[77] gives machines the ability to read and understand human language and extract intelligence from it.
+15. AI researchers developed sophisticated mathematical tools to solve specific subproblems. These tools are truly scientific, in the sense that their results are both measurable and verifiable.
+16. An intelligent agent is a system that perceives its environment and takes actions which maximize its chances of success.
+17. AI techniques have become an essential part of the technology industry, helping to solve many challenging problems in computer science.
+18. Recent advancements in AI, and specifically in machine learning, have contributed to the growth of Autonomous Things such as drones and self-driving cars.
+19. AI research was revived by the commercial success of expert systems,[28] a form of AI program that simulated the knowledge and analytical skills of human experts.
+20. Advanced statistical techniques (loosely known as deep learning), access to large amounts of data and faster computers enabled advances in machine learning and perception.
+21. A compound is a pure chemical substance composed of more than one element and the properties of a compound bear little similarity to those of its elements.
+22. Since the properties of an element are mostly determined by its electron configuration, the properties of the elements likewise show recurring patterns or periodic behaviour.
+23. The property of inertness of noble gases makes them very suitable in chemicals where reactions are not wanted.
+24. The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential and preferred oxidation state.
+25. The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus
+26. The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud.
+27. A chemical reaction is a transformation of some substances into one or more different substances.
+28. Chemistry is sometimes called the central science because it bridges other natural sciences, including physics, geology and biology.
+29. Chemistry includes topics such as the properties of individual atoms and how atoms form chemical bonds to create chemical compounds.
+30. Chemistry is a branch of physical science that studies the composition, structure of atoms, properties and change of matter.
