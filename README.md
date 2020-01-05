@@ -4,7 +4,7 @@ This repository is created for the Data Mining with Python course which has been
 
 You can find the videos of the course in the following youtube channel:
 
-https://www.youtube.com/watch?v=NzfsRxb5kVk&list=PL2g_5adpoaeJoEQWLnZFIRetqV6MsjeeP
+https://www.youtube.com/watch?v=JM6yP9GTLqI&list=PL2g_5adpoaeKH7NJRjcFzfMLMNHZSR5_D&index=2&t=0s
 
 I'm Pooya Mohammadi and you can contact me from one of the following ways:
 
